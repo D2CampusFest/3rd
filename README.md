@@ -1,5 +1,5 @@
 # FEST 2015 결승진출팀 안내
-(알파벳 순)
+(* 총 16개팀, 알파벳 순)
 
 프로젝트 명 | 프로젝트 주소 
 ----|----
@@ -7,6 +7,7 @@ CodeFolio|https://github.com/LandvibeDev/codefolio
 devnote|https://github.com/KUflower/Devnote
 iotpaas|https://github.com/nicholaskim94/iotpaas
 Jandy|https://github.com/jcooky/jandy
+Performance-Navigator|https://github.com/haeri56/Performance-Navigator
 QuesCheetah| https://github.com/mingkim/QuesCheetah
 rpaheui|https://github.com/aheui/rpaheui
 SecurityBootManager|https://github.com/IWillFindYou/SecurityBootManager
