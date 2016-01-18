@@ -11,7 +11,7 @@ Performance-Navigator|https://github.com/haeri56/Performance-Navigator
 QuesCheetah| https://github.com/mingkim/QuesCheetah
 rpaheui|https://github.com/aheui/rpaheui
 SecurityBootManager|https://github.com/IWillFindYou/SecurityBootManager
-setupbox|https://github.com/maxtortime/SetupBox
+SetupBox|https://github.com/maxtortime/SetupBox
 SUJI |https://github.com/naver-d2-suji/suji
 SURRO|https://github.com/Rumo-Arf/surro
 Teamkerbell|https://github.com/seongahjo/Teamkerbell
