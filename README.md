@@ -5,7 +5,7 @@
 ----|----
 CodeFolio|https://github.com/LandvibeDev/codefolio
 devnote|https://github.com/KUflower/Devnote
-iotpaas|https://github.com/nicholaskim94/iotpaas
+IoTPaaS|https://github.com/nicholaskim94/iotpaas
 Jandy|https://github.com/jcooky/jandy
 Performance-Navigator|https://github.com/haeri56/Performance-Navigator
 QuesCheetah| https://github.com/mingkim/QuesCheetah
