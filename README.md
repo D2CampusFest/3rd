@@ -26,9 +26,17 @@ yaksok.js|https://github.com/disjukr/yaksok.js
 ### 멘토링 캠프
 
 ```
-* 일시 : 1월 22일 (금)
+* 일시 : 1월 22일 (금) 11시
 * 장소 : D2 Startup Factory, 강남역 메리츠타워 16층
-※ 그외 상세내용은 전달드린 메일을 참고해주시기 바랍니다.
+* 일정안내
+ 11:00 Welcoming 인사
+ 11:15 참가 프로젝트 소개
+ 13:50 참가자 온&오프라인 멘토링
+ 14:30 이후 대회일정안내
+ 15:00 (멘토세션) How to show OSS project
+ 16:00 (멘토세션) How to Contribute to OSS
+ 17:00 (멘토세션) 효율적인 협업개발을 위한 Tip
+ 18:00 종료
 ```
 
 ### 밋업 일정 안내<br/>
