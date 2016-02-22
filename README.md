@@ -41,7 +41,7 @@ yaksok.js|https://github.com/disjukr/yaksok.js
 
 ### 밋업 일정 안내<br/>
 밋업의 주제는 등록해주시는 이슈에 따라 결정됩니다. 이슈를 등록해주세요! 
-https://github.com/D2CAMPUS-FEST/2015/issues/28
+https://github.com/D2CAMPUS-FEST/2015/issues/35
 ```
 * 밋업 1 : 1월 29일 (금)
 * 밋업 2 : 2월 4일  (목)
