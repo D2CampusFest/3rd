@@ -12,7 +12,7 @@ QuesCheetah| https://github.com/mingkim/QuesCheetah
 rpaheui|https://github.com/aheui/rpaheui
 SecurityBootManager|https://github.com/IWillFindYou/SecurityBootManager
 SetupBox|https://github.com/maxtortime/SetupBox
-SUJI |https://github.com/naver-d2-suji/suji
+SUJI |https://github.com/suji-korea/suji
 SURRO|https://github.com/Rumo-Arf/surro
 Teamkerbell|https://github.com/seongahjo/Teamkerbell
 Trevi|https://github.com/Yoseob/Trevi
