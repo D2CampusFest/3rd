@@ -1,29 +1,29 @@
-## 2015 결승전 수상작
+# 결승전 수상작
 
-### Trevi / 최우수상
+## Trevi / 최우수상
 <img src="http://me2.do/FyYrgxsG" height="70px">
 * Swift를 이용한 빠르고 가벼운 Web Application Server Framework
 * 라이선스 : Apache-2.0
 * 저장소 : https://github.com/Trevi-Swift/Trevi
 
-### Jandy / 우수상
+## Jandy / 우수상
 * Github과 Travis-ci를 이용한 오픈소스 개발자를 위한 동적 분석툴
 * 라이선스 : GPLv3
 * 저장소 : https://github.com/jcooky/jandy
 
-### Yaksok.js / 장려상
+## Yaksok.js / 장려상
 <img src="http://me2.do/xDiaO6zr" height="70px">
 * 한글 프로그래밍 언어 [약속](http://yaksok.org/)을 다루기 위한 자바스크립트 라이브러리
 * 라이선스 : Zlib
 * 저장소 : https://github.com/disjukr/yaksok.js
 
-### QuesCheetah / Best Contributor 상
+## QuesCheetah / Best Contributor 상
 <img src ="http://me2.do/FBd8vJS4" height="70px">
 * 빠르고 쉬운 Q&A 시스템을 위한 웹 플랫폼 SDK
 * 라이선스 : MIT
 * 저장소 : https://github.com/mingkim/QuesCheetah
 
-## 2015 결승 진출작
+# 결승 진출작
 프로젝트 | 설명 | 라이선스
 ----|----|----
 [CodeFolio](https://github.com/LandvibeDev/codefolio)|소스커밋 및 각종 이벤트를 타임라인으로 구성, 하나의 포트폴리오로 제공|MIT
@@ -39,5 +39,5 @@
 [ward](https://github.com/egaoneko/ward)|Facebook Group에 대한 정보 분석 제공사이트|GPL v3+
 [wikinote](http://github.com/bluemir/wikinote.git)|마크다운 문법을 이용한 wiki 스타일 컨텐츠 매니저|MIT
 
-## Beyond FEST 상
+# Beyond FEST 상
  - 연말 시상예정
