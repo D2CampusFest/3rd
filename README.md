@@ -1,23 +1,23 @@
 ## 2015 결승전 수상작
 
-### 최우수상
+### Trevi / 최우수상
 <img src="http://me2.do/FyYrgxsG" height="70px">
 * Swift를 이용한 빠르고 가벼운 Web Application Server Framework
 * 라이선스 : Apache-2.0
 * 저장소 : https://github.com/Trevi-Swift/Trevi
 
-### 우수상
+### Jandy / 우수상
 * Github과 Travis-ci를 이용한 오픈소스 개발자를 위한 동적 분석툴
 * 라이선스 : GPLv3
 * 저장소 : https://github.com/jcooky/jandy
 
-### 장려상
+### Yaksok.js / 장려상
 <img src="http://me2.do/xDiaO6zr" height="70px">
 * 한글 프로그래밍 언어 [약속](http://yaksok.org/)을 다루기 위한 자바스크립트 라이브러리
 * 라이선스 : Zlib
 * 저장소 : https://github.com/disjukr/yaksok.js
 
-### Best Contributor 상
+### QuesCheetah / Best Contributor 상
 <img src ="http://me2.do/FBd8vJS4" height="70px">
 * 빠르고 쉬운 Q&A 시스템을 위한 웹 플랫폼 SDK
 * 라이선스 : MIT
