@@ -33,7 +33,7 @@
 [rpaheui](https://github.com/aheui/rpaheui)|rpython으로 만든 엔터프라이즈급 고성능 아희|BSD-2-Clause
 [SecurityBootManager](https://github.com/IWillFindYou/SecurityBootManager)|부트로더 레벨에서 사용자정보를 수집하는 코어라이브러리|GPL v3
 [SetupBox](https://github.com/maxtortime/SetupBox)|자신만의 클라우드 스토리지 구현을 위한 미들웨어|BSD-3-Clause
-[SUJI](https://github.com/naver-d2-suji/suji)|중소업체를 위한 웹&모바일 POS 시스템|MIT
+[SUJI](https://github.com/suji-korea/suji)|중소업체를 위한 웹&모바일 POS 시스템|MIT
 [SURRO](https://github.com/Rumo-Arf/surro)|웹 기반 이슈 트래킹 시스템|MIT
 [Teamkerbell](https://github.com/seongahjo/Teamkerbell)|학생들을 위한 조별과제 서포트 애플리케이션|MIT
 [ward](https://github.com/egaoneko/ward)|Facebook Group에 대한 정보 분석 제공사이트|GPL v3+
