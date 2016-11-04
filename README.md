@@ -1,4 +1,6 @@
 # Beyond FEST 상
+(공동수상-알파벳순)
+
 ## Jandy
 * Github과 Travis-ci를 이용한 오픈소스 개발자를 위한 동적 분석툴
 * 라이선스 : GPLv3
