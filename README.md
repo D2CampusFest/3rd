@@ -2,7 +2,7 @@
 ## Jandy
 * Github과 Travis-ci를 이용한 오픈소스 개발자를 위한 동적 분석툴
 * 라이선스 : GPLv3
-* 저장소 : https://github.com/jcooky/jandy
+* 저장소 : https://github.com/jandy-team/jandy
 
 ## Teamkerbell
 * 학생들을 위한 조별과제 서포트 애플리케이션
