@@ -1,3 +1,14 @@
+# Beyond FEST 상
+## Jandy
+* Github과 Travis-ci를 이용한 오픈소스 개발자를 위한 동적 분석툴
+* 라이선스 : GPLv3
+* 저장소 : https://github.com/jcooky/jandy
+
+## Teamkerbell
+* 학생들을 위한 조별과제 서포트 애플리케이션
+* 라이선스 : MIT
+* 저장소 : https://github.com/seongahjo/Teamkerbell
+
 # 결승전 수상작
 
 ## Trevi / 최우수상
@@ -35,9 +46,5 @@
 [SetupBox](https://github.com/maxtortime/SetupBox)|자신만의 클라우드 스토리지 구현을 위한 미들웨어|BSD-3-Clause
 [SUJI](https://github.com/suji-korea/suji)|중소업체를 위한 웹&모바일 POS 시스템|MIT
 [SURRO](https://github.com/Rumo-Arf/surro)|웹 기반 이슈 트래킹 시스템|MIT
-[Teamkerbell](https://github.com/seongahjo/Teamkerbell)|학생들을 위한 조별과제 서포트 애플리케이션|MIT
 [ward](https://github.com/egaoneko/ward)|Facebook Group에 대한 정보 분석 제공사이트|GPL v3+
 [wikinote](http://github.com/bluemir/wikinote.git)|마크다운 문법을 이용한 wiki 스타일 컨텐츠 매니저|MIT
-
-# Beyond FEST 상
- - 연말 시상예정
